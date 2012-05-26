@@ -23,6 +23,7 @@ up to 65:
 
 What I like about the problem is there’s some math, it’s solvable and 
 it should act as a stepping stone to solving harder problems like Sudoku.  
+
 And, believe it or not, you can find information about magic square at 
 Wikipedia -- http://en.wikipedia.org/wiki/Magic_square.
 
